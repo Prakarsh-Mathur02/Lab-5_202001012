@@ -120,5 +120,6 @@ A variable not defined.
 
 Miscellaneous.
 
-
+# Conclusion
+Mypy is a tool which can catch many programming errors by analyzing your program, without actually having to run it.
 
