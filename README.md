@@ -90,4 +90,35 @@ The library was not installed on the pc. Which lead to the error.
 
 Argument type incompatibility.
 
+# Repository 4
+
+https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/JARVIS.PY
+
+# Error:
+<img src="https://user-images.githubusercontent.com/96994497/225285509-442be81f-ef33-42a2-9167-1aa9b0491170.png" width="895" height="264">
+
+# Line of errors:
+
+1. import pyttsx3 
+
+2. import speech_recognition as sr 
+
+3. import wikipedia
+
+4. import pyjokes
+
+5. Listener = sr.Recognizer()
+
+6. jarvis()
+
+
+
+# Understanding:
+The library was not installed on the pc. Which lead to the error.
+
+A variable not defined.
+
+Miscellaneous.
+
+
 
